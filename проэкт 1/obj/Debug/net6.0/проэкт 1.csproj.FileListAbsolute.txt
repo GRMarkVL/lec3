@@ -1,0 +1,15 @@
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/bin/Debug/net6.0/проэкт 1
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/bin/Debug/net6.0/проэкт 1.deps.json
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/bin/Debug/net6.0/проэкт 1.runtimeconfig.json
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/bin/Debug/net6.0/проэкт 1.dll
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/bin/Debug/net6.0/проэкт 1.pdb
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.csproj.AssemblyReference.cache
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.AssemblyInfoInputs.cache
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.AssemblyInfo.cs
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.csproj.CoreCompileInputs.cache
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.dll
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/refint/проэкт 1.dll
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.pdb
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/проэкт 1.genruntimeconfig.cache
+/home/mark/Рабочий стол/учёба/c# первая лекция/проэкт 1/obj/Debug/net6.0/ref/проэкт 1.dll
